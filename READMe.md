@@ -7,4 +7,6 @@ Html ve Css geliştirmek ve öğrenmek için oluşturulmuş bir projedir.
 
 <h2> Gif </h2>
 
+<a href="#" >Sitenin Çalışır hali</a>
+
 ![](gif adı)

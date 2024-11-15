@@ -1,12 +1,21 @@
-<h1> Netflix Clone </h1>
+# 📌 Netflix Clone
 
-Html ve Css geliştirmek ve öğrenmek için oluşturulmuş bir projedir.
+**Netflix Clone** projesi, [Öğrenim ] için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
 
+![Proje Görseli](netflix-gif.gif)  
 
-<h1> Proje sadece öğrenim amaçlı yapılmıştır </h1>
+---
 
-<h2> Gif </h2>
+## 🛠️ Özellikler
 
-<a href="#" >Sitenin Çalışır hali</a>
+- 🔹 **Özellik 1**: Sadece HTML5, CSS3 ile yazıldı .  
+- 🔹 **Özellik 2**: Görseller mevcut.  
 
-![](gif adı)
+---
+
+## 📚 Kurulum
+
+1. Bu projeyi bilgisayarınıza klonlayın:  
+   ```bash
+   cd Klasör adı
+   git clone https://github.com/omerffae/netflix-clone.git

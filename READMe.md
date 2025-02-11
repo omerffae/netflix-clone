@@ -1,6 +1,6 @@
 # 📌 Netflix Clone
 
-**Netflix Clone** projesi, [Öğrenim ] için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
+**Netflix Clone** projesi, açık kaynaklı bir yazılımdır. 🚀  
 
 ![Proje Görseli](netflix-gif.gif)  
 
